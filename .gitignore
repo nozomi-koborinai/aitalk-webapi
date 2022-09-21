@@ -55,3 +55,4 @@ pubspec.lock
 .firebase
 .firebaserc
 firebase.json
+lib/secret_keys.dart
